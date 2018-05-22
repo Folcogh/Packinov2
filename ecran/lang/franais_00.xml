@@ -1,176 +1,163 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<languagedata>
-	<fileversion major='1' minor='5'/>
-	<systemkeyboard path="de_CH"/>
-	<textprint mode="text" fontid='0' size='10' bold='0' italic='0' underline='0' strikeout='0'/>
-	<fonts>
-		<font id='0' fontname="Arial" filename="Arial.ttf" fontsizefactor='100'/>
-		<font id='1' fontname="Tahoma" filename="Tahoma.ttf" fontsizefactor='100'/>
-	</fonts>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languageData Version="galileoNG">
 	<texts>
-		<standard>
-			<s0><![CDATA[]]></s0>
-			<s1><![CDATA[Attente]]></s1>
-			<s2><![CDATA[Référence]]></s2>
-			<s3><![CDATA[MODE D'INJECTION]]></s3>
-			<s4><![CDATA[Activation]]></s4>
-			<s5><![CDATA[Nettoyage]]></s5>
-			<s6><![CDATA[Volumétrique]]></s6>
-			<s7><![CDATA[Niveau]]></s7>
-			<s8><![CDATA[Cadence]]></s8>
-			<s9><![CDATA[Coulage Niveau]]></s9>
-			<s10><![CDATA[Vidange]]></s10>
-			<s11><![CDATA[Appel de script]]></s11>
-			<s12><![CDATA[Valider]]></s12>
-			<s19><![CDATA[Débulleuse]]></s19>
-			<s24><![CDATA[Radian N°1]]></s24>
-			<s25><![CDATA[Radian N°2]]></s25>
-			<s27><![CDATA[Four]]></s27>
-			<s31><![CDATA[Compteur]]></s31>
-			<s34><![CDATA[OUI]]></s34>
-			<s36><![CDATA[MAINTENANCE]]></s36>
-			<s38><![CDATA[Vitesse moteur]]></s38>
-			<s39><![CDATA[Aspiration]]></s39>
-			<s40><![CDATA[Refoulement]]></s40>
-			<s42><![CDATA[Destination]]></s42>
-			<s43><![CDATA[Réel]]></s43>
-			<s45><![CDATA[Défauts]]></s45>
-			<s48><![CDATA[Correction]]></s48>
-			<s51><![CDATA[Injecteur]]></s51>
-			<s52><![CDATA[Maintenance]]></s52>
-			<s54><![CDATA[Gr]]></s54>
-			<s55><![CDATA[°C]]></s55>
-			<s60><![CDATA[s]]></s60>
-			<s63><![CDATA[Pcs]]></s63>
-			<s64><![CDATA[Injecteur N°1]]></s64>
-			<s68><![CDATA[%]]></s68>
-			<s71><![CDATA[1er COULAGE]]></s71>
-			<s72><![CDATA[2ème COULAGE]]></s72>
-			<s73><![CDATA[Injecteur]]></s73>
-			<s75><![CDATA[FOUR]]></s75>
-			<s76><![CDATA[DEBULLEUSE]]></s76>
-			<s77><![CDATA[RADIAN]]></s77>
-			<s78><![CDATA[N°1]]></s78>
-			<s79><![CDATA[N°2]]></s79>
-			<s80><![CDATA[CHAINE]]></s80>
-			<s81><![CDATA[BAC]]></s81>
-			<s82><![CDATA[Chauffage]]></s82>
-			<s89><![CDATA[P/H]]></s89>
-			<s90><![CDATA[Pompe]]></s90>
-			<s91><![CDATA[REMISE DU COMPTEUR A ZERO]]></s91>
-			<s92><![CDATA[Activé]]></s92>
-			<s93><![CDATA[A]]></s93>
-			<s94><![CDATA[Inc]]></s94>
-			<s95><![CDATA[2]]></s95>
-			<s96><![CDATA[1]]></s96>
-			<s97><![CDATA[Voir les défauts en cours]]></s97>
-			<s98><![CDATA[Voir l'historique]]></s98>
-			<s101><![CDATA[P]]></s101>
-			<s102><![CDATA[Appuyer sur Réarmement]]></s102>
-			<s103><![CDATA[Démarrage...]]></s103>
-			<s104><![CDATA[Général]]></s104>
-			<s105><![CDATA[Bac]]></s105>
-			<s106><![CDATA[Chaine]]></s106>
-			<s108><![CDATA[Coulage N°1]]></s108>
-			<s109><![CDATA[Coulage N°2]]></s109>
-			<s110><![CDATA[Paramètres avancés]]></s110>
-			<s112><![CDATA[Paramètres]]></s112>
-			<s113><![CDATA[Tempo démarrage]]></s113>
-			<s114><![CDATA[°C critique min]]></s114>
-			<s115><![CDATA[°C critique max]]></s115>
-			<s116><![CDATA[°C critique max four]]></s116>
-			<s117><![CDATA[Air comprimé]]></s117>
-			<s118><![CDATA[Bouton marche générale]]></s118>
-			<s119><![CDATA[Bouton marche auto]]></s119>
-			<s120><![CDATA[Bouton vidange]]></s120>
-			<s121><![CDATA[Bouton nettoyage]]></s121>
-			<s122><![CDATA[Electrovanne bac]]></s122>
-			<s123><![CDATA[Electrovanne coulage N°2]]></s123>
-			<s124><![CDATA[Tempo démarrage pompe]]></s124>
-			<s126><![CDATA[Hz variateur coulage]]></s126>
-			<s127><![CDATA[°C min paraffine (pompe)]]></s127>
-			<s128><![CDATA[Delta régulation]]></s128>
-			<s129><![CDATA[Delta défaut]]></s129>
-			<s130><![CDATA[Variateur pompe]]></s130>
-			<s131><![CDATA[°C régulation]]></s131>
-			<s132><![CDATA[°C critique ]]></s132>
-			<s133><![CDATA[°C min paraffine ]]></s133>
-			<s134><![CDATA[Variateur chaine]]></s134>
-			<s135><![CDATA[Moteur chaine]]></s135>
-			<s136><![CDATA[Tempo présence verre]]></s136>
-			<s137><![CDATA[Injecteur]]></s137>
-			<s138><![CDATA[Bac non prêt]]></s138>
-			<s139><![CDATA[Résistances]]></s139>
-			<s140><![CDATA[Turbine]]></s140>
-			<s141><![CDATA[Electrovanne]]></s141>
-			<s142><![CDATA[Non prêt pour M. auto]]></s142>
-			<s143><![CDATA[Tempo avant pause]]></s143>
-			<s144><![CDATA[Consigne pause]]></s144>
-			<s145><![CDATA[Période régulation]]></s145>
-			<s146><![CDATA[Contacteur]]></s146>
-			<s147><![CDATA[°C min tête]]></s147>
-			<s148><![CDATA[Incrément référence]]></s148>
-			<s149><![CDATA[Incrément bas injection]]></s149>
-			<s150><![CDATA[Incrément haut max]]></s150>
-			<s151><![CDATA[Référence]]></s151>
-			<s152><![CDATA[Défaut moteur 1]]></s152>
-			<s153><![CDATA[Défaut moteur 2]]></s153>
-			<s154><![CDATA[Position max vérin]]></s154>
-			<s155><![CDATA[Actif]]></s155>
-			<s156><![CDATA[Inhibé]]></s156>
-			<s157><![CDATA[Hz ]]></s157>
-			<s158><![CDATA[Inactif]]></s158>
-			<s159><![CDATA[ms]]></s159>
-			<s160><![CDATA[Sécurité chauffage]]></s160>
-			<s161><![CDATA[Embrayage]]></s161>
-			<s162><![CDATA[Vérin]]></s162>
-			<s163><![CDATA[Tiroir]]></s163>
-			<s165><![CDATA[min]]></s165>
-			<s167><![CDATA[Simulation tête prête]]></s167>
-			<s168><![CDATA[Moteur]]></s168>
-			<s170><![CDATA[Valeur par défaut]]></s170>
-			<s171><![CDATA[Simulation four prêt]]></s171>
-			<s172><![CDATA[Simulation bac prêt]]></s172>
-			<s173><![CDATA[P. verre]]></s173>
-			<s174><![CDATA[P. plaque]]></s174>
-			<s175><![CDATA[Seuil refroidissement]]></s175>
-			<s176><![CDATA[Tête]]></s176>
-			<s177><![CDATA[Stop]]></s177>
-			<s178><![CDATA[Contrôler]]></s178>
-		</standard>
-		<error>
-			<e0><![CDATA[]]></e0>
-			<e1><![CDATA[Défaut d'air comprimé]]></e1>
-			<e2><![CDATA[Arrêt d'urgence actif]]></e2>
-			<e3><![CDATA[Bac pas prêt pour couler (pompe ou température)]]></e3>
-			<e4><![CDATA[]]></e4>
-			<e5><![CDATA[]]></e5>
-			<e6><![CDATA[]]></e6>
-			<e7><![CDATA[]]></e7>
-			<e8><![CDATA[]]></e8>
-			<e9><![CDATA[Température critique tête]]></e9>
-			<e10><![CDATA[Défaut moteur tête (1)]]></e10>
-			<e11><![CDATA[Défaut moteur tête (2)]]></e11>
-			<e12><![CDATA[Défaut référence tête]]></e12>
-			<e13><![CDATA[Nettoyage indisponible dans ce mode]]></e13>
-			<e14><![CDATA[Vidange indisponible dans ce mode]]></e14>
-			<e15><![CDATA[Défaut température bac]]></e15>
-			<e16><![CDATA[Défaut température débulleuse]]></e16>
-			<e17><![CDATA[Défaut température four]]></e17>
-			<e18><![CDATA[Tête trop froide pour bouger]]></e18>
-			<e19><![CDATA[Bac trop froid pour démarrer la pompe]]></e19>
-			<e20><![CDATA[Défaut température tête]]></e20>
-			<e21><![CDATA[Défaut turbine four]]></e21>
-			<e22><![CDATA[Défaut variateur chaine]]></e22>
-			<e23><![CDATA[Défaut variateur pompe]]></e23>
-			<e25><![CDATA[Déplacement excessif de la tête]]></e25>
-			<e26><![CDATA[Four pas prêt pour la marche automatique]]></e26>
-			<e27><![CDATA[Tête pas prête pour la marche automatique]]></e27>
-			<e28><![CDATA[Défaut contacteur radian 1]]></e28>
-			<e29><![CDATA[Défaut contacteur radian 2]]></e29>
-		</error>
-		<help>
-			<h0><![CDATA[]]></h0>
-		</help>
+		<standard Guid="37f9123d-8d80-4e1b-8a81-49851e776202" textID="1"><![CDATA[Attente]]></standard>
+		<standard Guid="918d58e9-da5a-43e3-99b6-4c8f904686df" textID="2"><![CDATA[Référence]]></standard>
+		<standard Guid="09de5432-7047-4470-adc9-28865dbbba67" textID="3"><![CDATA[MODE D'INJECTION]]></standard>
+		<standard Guid="aeb314dc-1a83-44ad-895b-1f04a92721f3" textID="4"><![CDATA[Activation]]></standard>
+		<standard Guid="57278e49-3830-42ca-9e73-5464b70f023e" textID="5"><![CDATA[Nettoyage]]></standard>
+		<standard Guid="6fe98201-fa8b-4216-8725-66eebbdf56ec" textID="6"><![CDATA[Volumétrique]]></standard>
+		<standard Guid="d2b17086-760b-4b46-bf72-7b279559d4e3" textID="7"><![CDATA[Niveau]]></standard>
+		<standard Guid="c56b2ce0-e1cf-4bd1-94aa-ac5be899c08b" textID="8"><![CDATA[Cadence]]></standard>
+		<standard Guid="45ae6f4d-6ef4-4183-9c17-44acbdf0154d" textID="9"><![CDATA[Coulage Niveau]]></standard>
+		<standard Guid="fcef78f4-51b1-4873-8185-8d045148a2f8" textID="10"><![CDATA[Vidange]]></standard>
+		<standard Guid="9296d535-cafe-490e-8824-51c6f3cb6514" textID="11"><![CDATA[Appel de script]]></standard>
+		<standard Guid="4ca6f537-4870-4f28-a19c-9d0219aedac1" textID="12"><![CDATA[Valider]]></standard>
+		<standard Guid="e0869e47-9d9a-4739-afa4-15d089745fa0" textID="19"><![CDATA[Débulleuse]]></standard>
+		<standard Guid="fbb222e3-60e9-4757-91ef-a7cb724703f2" textID="24"><![CDATA[Radian N°1]]></standard>
+		<standard Guid="bd6048c8-1659-4ce8-ac77-4c1013484394" textID="25"><![CDATA[Radian N°2]]></standard>
+		<standard Guid="fa9293a7-ebdb-4c78-972f-4d51ade75afb" textID="27"><![CDATA[Four]]></standard>
+		<standard Guid="4085789f-9102-47f5-bfbe-6efedb2e145d" textID="31"><![CDATA[Compteur]]></standard>
+		<standard Guid="ce616a7e-3d20-4282-8ed3-e4a4f27f4356" textID="34"><![CDATA[OUI]]></standard>
+		<standard Guid="d178eeb2-aa9a-456a-aa0d-2c1fba339135" textID="36"><![CDATA[MAINTENANCE]]></standard>
+		<standard Guid="5db32186-cd21-45e2-bba8-36277f052254" textID="38"><![CDATA[Vitesse moteur]]></standard>
+		<standard Guid="94a4808a-47b2-4ed6-8da6-2b8fc3ded872" textID="39"><![CDATA[Aspiration]]></standard>
+		<standard Guid="d9ccf43b-2262-405a-9e33-41ac08da2444" textID="40"><![CDATA[Refoulement]]></standard>
+		<standard Guid="019560db-6ecf-4bbb-a846-d595e7e61ac7" textID="42"><![CDATA[Destination]]></standard>
+		<standard Guid="d1140d58-5c94-47ff-848d-22901daea390" textID="43"><![CDATA[Réel]]></standard>
+		<standard Guid="17b05b01-1bf8-4ba2-be77-6feb949ac65b" textID="45"><![CDATA[Défauts]]></standard>
+		<standard Guid="88297fd6-aacc-4131-b3cd-9dac4a8fbf98" textID="48"><![CDATA[Correction]]></standard>
+		<standard Guid="45420a13-6238-4352-9fc5-5df951f9e753" textID="51"><![CDATA[Injecteur]]></standard>
+		<standard Guid="faa2243f-4d6b-4796-9860-6fabb04b3f74" textID="52"><![CDATA[Maintenance]]></standard>
+		<standard Guid="f45dd253-e880-4f61-b460-564badcc28af" textID="54"><![CDATA[Gr]]></standard>
+		<standard Guid="a3b22040-1c7a-44ce-8b0a-eadacf7e89a1" textID="55"><![CDATA[°C]]></standard>
+		<standard Guid="effdbb5c-dc35-4ac4-974c-88b3bded2576" textID="60"><![CDATA[s]]></standard>
+		<standard Guid="5fa6bd6f-bca0-40d3-8ea8-e5c875644595" textID="63"><![CDATA[Pcs]]></standard>
+		<standard Guid="bd932f95-9e41-4131-8151-7f72ee93aa7a" textID="64"><![CDATA[Injecteur N°1]]></standard>
+		<standard Guid="240f70dc-ec0c-4bee-a320-545e85a63fea" textID="68"><![CDATA[%]]></standard>
+		<standard Guid="2d809f9f-cc7c-4f0b-a1e9-e7de7e40b7cc" textID="71"><![CDATA[1er COULAGE]]></standard>
+		<standard Guid="0b004ff0-9891-42ef-a43d-fa876f4396fa" textID="72"><![CDATA[2ème COULAGE]]></standard>
+		<standard Guid="6ed6b97e-c2db-41e3-b16a-8a583cc3d643" textID="73"><![CDATA[Injecteur]]></standard>
+		<standard Guid="7557331b-b926-47db-876d-42345fc8b5b4" textID="75"><![CDATA[FOUR]]></standard>
+		<standard Guid="e5acf24e-5099-4ead-96b9-92a746ed90fb" textID="76"><![CDATA[DEBULLEUSE]]></standard>
+		<standard Guid="13c6fae8-6f48-40c8-a977-d4f075aa0e34" textID="77"><![CDATA[RADIAN]]></standard>
+		<standard Guid="231c356d-7c7a-4a65-acd7-15fe28b60be2" textID="78"><![CDATA[N°1]]></standard>
+		<standard Guid="a58c9e99-42e6-4726-90e7-364a9a49eac2" textID="79"><![CDATA[N°2]]></standard>
+		<standard Guid="864900af-7464-498c-93ed-c1b08077a85f" textID="80"><![CDATA[CHAINE]]></standard>
+		<standard Guid="b16f7e15-0942-4c41-9f86-23c1944020ae" textID="81"><![CDATA[BAC]]></standard>
+		<standard Guid="8caf970f-ee5d-45e3-8bc6-dab16b400921" textID="82"><![CDATA[Chauffage]]></standard>
+		<standard Guid="b1afab70-24ac-4d7a-81da-2ad2f6836a1c" textID="89"><![CDATA[P/H]]></standard>
+		<standard Guid="5339dff8-079c-4d01-af5c-d434af9fa098" textID="90"><![CDATA[Pompe]]></standard>
+		<standard Guid="0cddd52b-3481-41b0-aa47-0dac2bce3608" textID="91"><![CDATA[REMISE DU COMPTEUR A ZERO]]></standard>
+		<standard Guid="163a06b9-00e5-40b6-8729-50b522313d68" textID="92"><![CDATA[Activé]]></standard>
+		<standard Guid="d23aadd1-617f-4b48-9ab2-0d676f15027f" textID="93"><![CDATA[A]]></standard>
+		<standard Guid="777c9e93-df0d-4348-9049-e3be4894b6b6" textID="94"><![CDATA[Inc]]></standard>
+		<standard Guid="521c49c2-063c-4f01-8188-2315b8c17084" textID="95"><![CDATA[2]]></standard>
+		<standard Guid="9b8b8245-8091-4e91-8d66-5c843e98626b" textID="96"><![CDATA[1]]></standard>
+		<standard Guid="80fbf8ab-b6c6-43ef-b67e-7b3f1138c470" textID="97"><![CDATA[Voir les défauts en cours]]></standard>
+		<standard Guid="dea094fb-35e2-47fd-8ce9-e95a3adf9776" textID="98"><![CDATA[Voir l'historique]]></standard>
+		<standard Guid="fe2fa77c-7e65-4f07-87fa-ca13347d20ad" textID="101"><![CDATA[P]]></standard>
+		<standard Guid="3868019a-6589-467f-a68f-ad6001da8d86" textID="102"><![CDATA[Appuyer sur Réarmement]]></standard>
+		<standard Guid="eea1c491-05a5-4108-a768-8c2c7bfb02e9" textID="103"><![CDATA[Démarrage...]]></standard>
+		<standard Guid="75341184-9d16-403b-8983-3b619631650f" textID="104"><![CDATA[Général]]></standard>
+		<standard Guid="ffe32e9a-aa23-4f0a-98fa-41cb09de5955" textID="105"><![CDATA[Bac]]></standard>
+		<standard Guid="86f20584-0191-4d62-b075-a0e5a187e463" textID="106"><![CDATA[Chaine]]></standard>
+		<standard Guid="6d20977c-7af4-4b75-bf25-3fd582735e7f" textID="108"><![CDATA[Coulage N°1]]></standard>
+		<standard Guid="99bac141-86bb-457d-b98a-26e027114e5d" textID="109"><![CDATA[Coulage N°2]]></standard>
+		<standard Guid="e5a00072-727e-4351-b070-3adfaace55d4" textID="110"><![CDATA[Paramètres avancés]]></standard>
+		<standard Guid="3573c7e4-d64d-49e6-838f-1cf7db2bf7a3" textID="112"><![CDATA[Paramètres]]></standard>
+		<standard Guid="26da6c8c-d190-4746-a13b-01b598d06002" textID="113"><![CDATA[Tempo démarrage]]></standard>
+		<standard Guid="1fe0500f-065b-44a8-91cd-01929b537e24" textID="114"><![CDATA[°C critique min]]></standard>
+		<standard Guid="7ed21100-14f8-4c22-a828-38389c70bb93" textID="115"><![CDATA[°C critique max]]></standard>
+		<standard Guid="9603d2a4-19e3-4c6b-aa48-4fd807d60e8b" textID="116"><![CDATA[°C critique max four]]></standard>
+		<standard Guid="9f293b70-a3cf-426e-a7d0-78132fc8f00c" textID="117"><![CDATA[Air comprimé]]></standard>
+		<standard Guid="12ebe0e1-2b6a-44f7-a4b0-ef0d00326f04" textID="118"><![CDATA[Bouton marche générale]]></standard>
+		<standard Guid="1de0080a-8a2f-4037-8efb-9ac14476fdec" textID="119"><![CDATA[Bouton marche auto]]></standard>
+		<standard Guid="750db3bf-5dc4-4be9-b69e-51953332db70" textID="120"><![CDATA[Bouton vidange]]></standard>
+		<standard Guid="3c2665b5-b9cb-4f38-b22b-949326ced243" textID="121"><![CDATA[Bouton nettoyage]]></standard>
+		<standard Guid="495b8781-7cf4-4809-b6ee-cbddefbb2f6a" textID="122"><![CDATA[Electrovanne bac]]></standard>
+		<standard Guid="71b8e8f9-50ea-48bf-80c3-1a0a0f8adcd7" textID="123"><![CDATA[Electrovanne coulage N°2]]></standard>
+		<standard Guid="2e1ff7e2-92fc-4343-ac98-6c37b31387c4" textID="124"><![CDATA[Tempo démarrage pompe]]></standard>
+		<standard Guid="01798e65-e835-4442-bef5-d28bdb34fe93" textID="126"><![CDATA[Hz variateur coulage]]></standard>
+		<standard Guid="42eba786-87e6-4498-b105-5d6f765659f5" textID="127"><![CDATA[°C min paraffine (pompe)]]></standard>
+		<standard Guid="e930eaf9-a6d8-4d4b-a480-5797cc18daa5" textID="128"><![CDATA[Delta régulation]]></standard>
+		<standard Guid="08276241-ec8c-4bda-8747-32449430632c" textID="129"><![CDATA[Delta défaut]]></standard>
+		<standard Guid="22516c21-9f46-4fbd-bc76-9c3544aa6834" textID="130"><![CDATA[Variateur pompe]]></standard>
+		<standard Guid="48a29a34-f6fd-4872-b41f-82726c0e4aa3" textID="131"><![CDATA[°C régulation]]></standard>
+		<standard Guid="117f3200-f214-470d-9f5a-7e3cc8d27f4e" textID="132"><![CDATA[°C critique ]]></standard>
+		<standard Guid="d1d4ffd8-ad35-4c48-a84f-7470ad246b47" textID="133"><![CDATA[°C min paraffine ]]></standard>
+		<standard Guid="ae33e80e-d9aa-4a39-b10b-e5b4dcc53739" textID="134"><![CDATA[Variateur chaine]]></standard>
+		<standard Guid="7564ac3a-184b-4d3a-909d-0b7231ee3f69" textID="135"><![CDATA[Moteur chaine]]></standard>
+		<standard Guid="f60fd6db-8956-4a16-b8b2-adf78b73e589" textID="136"><![CDATA[Tempo présence verre]]></standard>
+		<standard Guid="ad3f7474-2da0-4c9a-a3a5-1c447416ebaa" textID="137"><![CDATA[Injecteur]]></standard>
+		<standard Guid="a0bd76cd-c8b2-47c4-9e06-453d4655e2be" textID="138"><![CDATA[Bac non prêt]]></standard>
+		<standard Guid="31135b22-4f8d-4324-a978-26fe4a072a6e" textID="139"><![CDATA[Résistances]]></standard>
+		<standard Guid="cee5dbf8-ff60-4163-854a-e50173070f71" textID="140"><![CDATA[Turbine]]></standard>
+		<standard Guid="6054b0e9-3a90-4f90-88be-ce45113e2033" textID="141"><![CDATA[Electrovanne]]></standard>
+		<standard Guid="c51b8020-d030-4f6e-bd43-fe630cfd9d92" textID="142"><![CDATA[Non prêt pour M. auto]]></standard>
+		<standard Guid="031857f0-4e44-412c-8792-05fcbe7b49b3" textID="143"><![CDATA[Tempo avant pause]]></standard>
+		<standard Guid="52820c8a-e862-4bd1-bbce-2694c31b3a53" textID="144"><![CDATA[Consigne pause]]></standard>
+		<standard Guid="231f6a79-4b85-410c-83e6-e4e330f10b5a" textID="145"><![CDATA[Période régulation]]></standard>
+		<standard Guid="1608df59-321f-46ec-9572-4a3b00212e8b" textID="146"><![CDATA[Contacteur]]></standard>
+		<standard Guid="8dff2de9-06c0-4974-b096-ce9b2a32b9be" textID="147"><![CDATA[°C min tête]]></standard>
+		<standard Guid="863d9bf9-2620-45a8-b3dc-1191acc5c2b0" textID="148"><![CDATA[Incrément référence]]></standard>
+		<standard Guid="9ef1cfd1-4465-49ae-b27f-cf8e43c293ce" textID="149"><![CDATA[Incrément bas injection]]></standard>
+		<standard Guid="10800a7e-4060-410c-acec-ee57c916bd98" textID="150"><![CDATA[Incrément haut max]]></standard>
+		<standard Guid="d41c357b-5d98-4631-870b-e8109856425a" textID="151"><![CDATA[Référence]]></standard>
+		<standard Guid="862fce71-f0dc-434e-aefa-d913d0903d70" textID="152"><![CDATA[Défaut moteur 1]]></standard>
+		<standard Guid="e039a6ef-1ccb-468f-b979-f29ab0876bdf" textID="153"><![CDATA[Défaut moteur 2]]></standard>
+		<standard Guid="8f8893c0-ac7a-4ba0-b5fb-cc9209cd98c1" textID="154"><![CDATA[Position max vérin]]></standard>
+		<standard Guid="21645474-6849-4574-96b9-3b2c327be6c8" textID="155"><![CDATA[Actif]]></standard>
+		<standard Guid="523ccaa7-0739-418a-8a61-ff1e1a4fa94d" textID="156"><![CDATA[Inhibé]]></standard>
+		<standard Guid="86eebc36-6b0a-4e96-93d2-503a27647c16" textID="157"><![CDATA[Hz ]]></standard>
+		<standard Guid="d6cc6720-98b9-4f00-bbe4-06fffe5a0437" textID="158"><![CDATA[Inactif]]></standard>
+		<standard Guid="3a34b3cf-918c-4a30-924e-a5bc48574aed" textID="159"><![CDATA[ms]]></standard>
+		<standard Guid="d3c5b139-8d00-4ce0-9528-12bc26e5e407" textID="160"><![CDATA[Sécurité chauffage]]></standard>
+		<standard Guid="03584b50-2b73-4146-983d-40652689b035" textID="161"><![CDATA[Embrayage]]></standard>
+		<standard Guid="fc0af884-9a4f-46d0-86ff-b45ce3badae7" textID="162"><![CDATA[Vérin]]></standard>
+		<standard Guid="25c75abb-05ec-464c-9b71-a2c71abdb865" textID="163"><![CDATA[Tiroir]]></standard>
+		<standard Guid="eea4005a-f056-4695-89d7-6821f1596c35" textID="165"><![CDATA[min]]></standard>
+		<standard Guid="5bea9562-a5a2-48c2-a684-bd4adc009776" textID="167"><![CDATA[Simulation tête prête]]></standard>
+		<standard Guid="bca78d98-eed4-41d3-bbec-5d4bc9d72f0a" textID="168"><![CDATA[Moteur]]></standard>
+		<standard Guid="a8dde617-a8b1-404e-b7a6-86505d08280e" textID="170"><![CDATA[Valeur par défaut]]></standard>
+		<standard Guid="0be42d2b-e908-4f1b-a2ad-b7b2fb93e920" textID="171"><![CDATA[Simulation four prêt]]></standard>
+		<standard Guid="3964e118-f575-4300-af91-5e75faa45a7b" textID="172"><![CDATA[Simulation bac prêt]]></standard>
+		<standard Guid="33adf444-4bac-4d8d-ae14-7abe66c50da5" textID="173"><![CDATA[P. verre]]></standard>
+		<standard Guid="c5e3b5ac-62dd-4ded-aaa2-92889a6b4468" textID="174"><![CDATA[P. plaque]]></standard>
+		<standard Guid="a0326b59-c542-4d5b-9241-df5992e13421" textID="175"><![CDATA[Seuil refroidissement]]></standard>
+		<standard Guid="ce3f5754-fb25-4839-a48d-ef733a5e880a" textID="176"><![CDATA[Tête]]></standard>
+		<standard Guid="7b5e3b12-c33f-4b12-a0c3-237d19d0c7c7" textID="177"><![CDATA[Stop]]></standard>
+		<standard Guid="5d6b4e6a-546e-447a-8d78-7bb2b3da433e" textID="178"><![CDATA[Contrôler]]></standard>
+		<standard Guid="2b904be2-e7bd-4ff6-a593-278505e9676b" textID="0"><![CDATA[]]></standard>
+		<error Guid="fc8d5577-0508-4bc9-b214-4f7660633010" textID="1"><![CDATA[Défaut d'air comprimé]]></error>
+		<error Guid="869d51fb-2e9e-4ecc-98ba-f2efc37265d6" textID="2"><![CDATA[Arrêt d'urgence actif]]></error>
+		<error Guid="9fb3fd22-69f0-4456-a18e-01eb14d0bd51" textID="3"><![CDATA[Bac pas prêt pour couler (pompe ou température)]]></error>
+		<error Guid="86d6ae59-2646-485f-a5e1-969e2912d6a5" textID="4"><![CDATA[]]></error>
+		<error Guid="4a3ad109-af75-4c3a-9754-eeb5417d7fec" textID="5"><![CDATA[]]></error>
+		<error Guid="1c97bd8d-33b5-426c-852f-7ea6faeb1475" textID="6"><![CDATA[]]></error>
+		<error Guid="4254bc40-e021-4c6d-83a3-ce4c4e9757e4" textID="7"><![CDATA[]]></error>
+		<error Guid="dace9bf3-127d-4685-a7b1-0db21760f09d" textID="8"><![CDATA[]]></error>
+		<error Guid="793a5287-d5bd-4954-ad3b-d9fefd147283" textID="9"><![CDATA[Température critique tête]]></error>
+		<error Guid="1fd78df4-f687-44d8-8df5-69bf6b6b93f6" textID="10"><![CDATA[Défaut moteur tête (1)]]></error>
+		<error Guid="0bd72cf9-559d-4d56-a304-9b631e0f8354" textID="11"><![CDATA[Défaut moteur tête (2)]]></error>
+		<error Guid="13a316a6-9dc5-4edf-8981-4a94fd4f8ce2" textID="12"><![CDATA[Défaut référence tête]]></error>
+		<error Guid="5bdbbe38-accd-4969-b1ab-8c5082601998" textID="13"><![CDATA[Nettoyage indisponible dans ce mode]]></error>
+		<error Guid="ae5dda9a-d99d-43ac-b3df-d9232e712a3c" textID="14"><![CDATA[Vidange indisponible dans ce mode]]></error>
+		<error Guid="3305bcd2-3726-497b-8c77-6739a4efbce8" textID="15"><![CDATA[Défaut température bac]]></error>
+		<error Guid="b1b007cf-9de4-4434-a4d3-384618a853c7" textID="16"><![CDATA[Défaut température débulleuse]]></error>
+		<error Guid="7fcd6fcd-7724-460d-b0d3-dbfbdbe60004" textID="17"><![CDATA[Défaut température four]]></error>
+		<error Guid="c5cb53bf-6397-49e6-8682-fa633144c0f3" textID="18"><![CDATA[Tête trop froide pour bouger]]></error>
+		<error Guid="9815eb3c-496e-4fca-a03d-f27764874074" textID="19"><![CDATA[Bac trop froid pour démarrer la pompe]]></error>
+		<error Guid="b0f3a67f-c17c-4b34-8c36-9002ed8b2424" textID="20"><![CDATA[Défaut température tête]]></error>
+		<error Guid="d2d07339-ddcb-4c06-a3fd-91e2e0dcd70a" textID="21"><![CDATA[Défaut turbine four]]></error>
+		<error Guid="eebd9d72-efdc-4900-bc60-a0365aedff03" textID="22"><![CDATA[Défaut variateur chaine]]></error>
+		<error Guid="b3d14ff2-7351-4205-8a8f-1e60823ed8c9" textID="23"><![CDATA[Défaut variateur pompe]]></error>
+		<error Guid="c9c1bca0-1cc5-4049-aebb-96011b88fa72" textID="25"><![CDATA[Déplacement excessif de la tête]]></error>
+		<error Guid="f8411e49-bd61-42ae-b1c8-7e382d5df5a4" textID="26"><![CDATA[Four pas prêt pour la marche automatique]]></error>
+		<error Guid="fe5dcc29-6b99-41f5-b01e-870ddd73f523" textID="27"><![CDATA[Tête pas prête pour la marche automatique]]></error>
+		<error Guid="25c702d6-b0bc-46c3-a106-b2cd5b5fb411" textID="28"><![CDATA[Défaut contacteur radian 1]]></error>
+		<error Guid="6984e477-cdfd-4c9e-a1a7-598371b4e584" textID="29"><![CDATA[Défaut contacteur radian 2]]></error>
+		<error Guid="6a377390-c4a1-4c73-bbd9-87ad30dcd7cd" textID="0"><![CDATA[]]></error>
+		<help Guid="da74f20a-5700-4c30-a5cc-7b9e046d069c" textID="0"><![CDATA[]]></help>
 	</texts>
-</languagedata>
+</languageData>
