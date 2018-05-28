@@ -129,6 +129,49 @@
 		<standard Guid="7b5e3b12-c33f-4b12-a0c3-237d19d0c7c7" textID="177"><![CDATA[Stop]]></standard>
 		<standard Guid="5d6b4e6a-546e-447a-8d78-7bb2b3da433e" textID="178"><![CDATA[Contrôler]]></standard>
 		<standard Guid="2b904be2-e7bd-4ff6-a593-278505e9676b" textID="0"><![CDATA[]]></standard>
+		<standard Guid="2d8e132e-3339-436e-bac7-c862d764073e" textID="179"><![CDATA[C-clockwise continu]]></standard>
+		<standard Guid="bdc6857f-d31a-4320-885e-461af63d061b" textID="180"><![CDATA[C-clockwise pas-à-pas]]></standard>
+		<standard Guid="45867511-1a31-457a-835a-9cf7d9a00924" textID="181"><![CDATA[Clockwise pas-à-pas]]></standard>
+		<standard Guid="a8a6649b-6606-457c-a173-e7bea9e3ba3a" textID="182"><![CDATA[Clockwise continu]]></standard>
+		<standard Guid="8192c2ca-a499-4d19-a584-b43295d5bd7a" textID="183"><![CDATA[Jog]]></standard>
+		<standard Guid="fc6e1e22-f603-4d01-b2ae-e842523a8872" textID="184"><![CDATA[Références]]></standard>
+		<standard Guid="acd8c93a-9715-4366-ba4c-95534123f38e" textID="185"><![CDATA[Switch négatif]]></standard>
+		<standard Guid="eded2e1e-1299-498a-a62e-50f647a21b14" textID="186"><![CDATA[Blocage positif]]></standard>
+		<standard Guid="3b86fb01-0983-4f1f-8b7c-a869d4dd7307" textID="187"><![CDATA[Butée c-clockwise]]></standard>
+		<standard Guid="b9239b69-3410-486e-9c44-9b37626a80e7" textID="188"><![CDATA[Butée clockwise]]></standard>
+		<standard Guid="06b8322a-00a0-41fd-a954-2e9ccf183a72" textID="189"><![CDATA[Switch positif]]></standard>
+		<standard Guid="5ba832b1-f5e7-4072-b1e8-01df22eb1a80" textID="190"><![CDATA[Réarmement]]></standard>
+		<standard Guid="4a9a235d-1186-4a8d-a4d2-9fa32dede79a" textID="191"><![CDATA[Back]]></standard>
+		<standard Guid="66feae35-1cbb-451d-87d1-477142466363" textID="192"><![CDATA[Fin de course]]></standard>
+		<standard Guid="1483f4cb-6c01-4180-814c-961b4b954745" textID="193"><![CDATA[Reference OK]]></standard>
+		<standard Guid="659918a4-b78c-4867-a2fd-c4216e54a892" textID="194"><![CDATA[Erreur mode]]></standard>
+		<standard Guid="49d4f07e-fbf5-44f9-a9c8-22f87a76faf8" textID="195"><![CDATA[Erreur moteur]]></standard>
+		<standard Guid="e23b2249-1424-41ca-ba6b-74305563a8ca" textID="196"><![CDATA[Lent]]></standard>
+		<standard Guid="e6da9ba3-fe2b-4121-8ddc-17ab11257469" textID="197"><![CDATA[Rapide]]></standard>
+		<standard Guid="77e0a955-c588-4185-ad1a-448872e59149" textID="198"><![CDATA[Etat]]></standard>
+		<standard Guid="1d80475f-296b-4cdf-acf6-d6290f13dc1c" textID="199"><![CDATA[Quick stop]]></standard>
+		<standard Guid="cc146ac7-d9ad-42ea-87db-0dd6513c204a" textID="200"><![CDATA[SDO]]></standard>
+		<standard Guid="fb6f6168-bfd5-40c0-b257-36e297f9b8c8" textID="201"><![CDATA[Absolu]]></standard>
+		<standard Guid="8daf4596-5c40-44b3-b508-c89e82d1ee65" textID="202"><![CDATA[Incrémentation]]></standard>
+		<standard Guid="d3a150ee-2743-4638-b037-c14ab209c580" textID="203"><![CDATA[Dest.]]></standard>
+		<standard Guid="b39217cb-dea0-404b-b3a5-6370640f5937" textID="204"><![CDATA[Déplacer]]></standard>
+		<standard Guid="e4f6ebdd-c85a-493c-9095-301d2a86cc43" textID="205"><![CDATA[Vitesse]]></standard>
+		<standard Guid="3bf84f55-4e17-4d6a-96e2-e9e2d665504c" textID="206"><![CDATA[Reset usine]]></standard>
+		<standard Guid="78e80944-2fda-44af-b806-eabbdb8dd6b3" textID="207"><![CDATA[Redémarrer l'alimentation après un reset !]]></standard>
+		<standard Guid="bc90335b-48c0-475d-ae05-9e7edc377395" textID="208"><![CDATA[Exporter les paramètres]]></standard>
+		<standard Guid="be372cb7-dfc1-451a-b2db-ab68d0e012d0" textID="209"><![CDATA[Importer les paramètres]]></standard>
+		<standard Guid="9811576b-58ed-438c-a0d5-4747c23408e1" textID="210"><![CDATA[Redémarrer l'alimentation après l'import des paramètres !]]></standard>
+		<standard Guid="004923c1-ab8f-408a-bf8d-7333d8c95efd" textID="211"><![CDATA[Drive]]></standard>
+		<standard Guid="110eba1c-bc93-4840-9fd6-b295748a3629" textID="212"><![CDATA[Node]]></standard>
+		<standard Guid="c8a7aa60-c6b0-4743-9d8c-2a10e486489e" textID="213"><![CDATA[Objet CAN]]></standard>
+		<standard Guid="2abb6ada-040a-4d4b-8b05-ffba29d150df" textID="214"><![CDATA[Subindex]]></standard>
+		<standard Guid="e754926a-a8cc-4abc-88f6-7adc8f26f131" textID="215"><![CDATA[Index]]></standard>
+		<standard Guid="11173e73-edf7-4e22-afc2-8c95f669db32" textID="216"><![CDATA[Data]]></standard>
+		<standard Guid="9b868de9-e2ba-45c4-b61c-a2911e7556ab" textID="217"><![CDATA[Lire]]></standard>
+		<standard Guid="d627e504-2f1b-4750-b70b-b5adbc7ad4f5" textID="218"><![CDATA[Longueur]]></standard>
+		<standard Guid="adaa6403-7e00-4273-b804-ad152915762a" textID="219"><![CDATA[Message lu]]></standard>
+		<standard Guid="fb10d576-c9a3-46b0-98cf-41f7a14df2fd" textID="220"><![CDATA[Ecrire]]></standard>
+		<standard Guid="3e89ec1a-68db-4c2d-9937-6b75409521c1" textID="221"><![CDATA[Message écrit]]></standard>
 		<error Guid="fc8d5577-0508-4bc9-b214-4f7660633010" textID="1"><![CDATA[Défaut d'air comprimé]]></error>
 		<error Guid="869d51fb-2e9e-4ecc-98ba-f2efc37265d6" textID="2"><![CDATA[Arrêt d'urgence actif]]></error>
 		<error Guid="9fb3fd22-69f0-4456-a18e-01eb14d0bd51" textID="3"><![CDATA[Bac pas prêt pour couler (pompe ou température)]]></error>
