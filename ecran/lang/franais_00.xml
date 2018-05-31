@@ -2,7 +2,6 @@
 <languageData Version="galileoNG">
 	<texts>
 		<standard Guid="37f9123d-8d80-4e1b-8a81-49851e776202" textID="1"><![CDATA[Attente]]></standard>
-		<standard Guid="918d58e9-da5a-43e3-99b6-4c8f904686df" textID="2"><![CDATA[Référence]]></standard>
 		<standard Guid="09de5432-7047-4470-adc9-28865dbbba67" textID="3"><![CDATA[MODE D'INJECTION]]></standard>
 		<standard Guid="aeb314dc-1a83-44ad-895b-1f04a92721f3" textID="4"><![CDATA[Activation]]></standard>
 		<standard Guid="57278e49-3830-42ca-9e73-5464b70f023e" textID="5"><![CDATA[Nettoyage]]></standard>
@@ -11,7 +10,6 @@
 		<standard Guid="c56b2ce0-e1cf-4bd1-94aa-ac5be899c08b" textID="8"><![CDATA[Cadence]]></standard>
 		<standard Guid="45ae6f4d-6ef4-4183-9c17-44acbdf0154d" textID="9"><![CDATA[Coulage Niveau]]></standard>
 		<standard Guid="fcef78f4-51b1-4873-8185-8d045148a2f8" textID="10"><![CDATA[Vidange]]></standard>
-		<standard Guid="9296d535-cafe-490e-8824-51c6f3cb6514" textID="11"><![CDATA[Appel de script]]></standard>
 		<standard Guid="4ca6f537-4870-4f28-a19c-9d0219aedac1" textID="12"><![CDATA[Valider]]></standard>
 		<standard Guid="e0869e47-9d9a-4739-afa4-15d089745fa0" textID="19"><![CDATA[Débulleuse]]></standard>
 		<standard Guid="fbb222e3-60e9-4757-91ef-a7cb724703f2" textID="24"><![CDATA[Radian N°1]]></standard>
@@ -57,8 +55,6 @@
 		<standard Guid="80fbf8ab-b6c6-43ef-b67e-7b3f1138c470" textID="97"><![CDATA[Voir les défauts en cours]]></standard>
 		<standard Guid="dea094fb-35e2-47fd-8ce9-e95a3adf9776" textID="98"><![CDATA[Voir l'historique]]></standard>
 		<standard Guid="fe2fa77c-7e65-4f07-87fa-ca13347d20ad" textID="101"><![CDATA[P]]></standard>
-		<standard Guid="3868019a-6589-467f-a68f-ad6001da8d86" textID="102"><![CDATA[Appuyer sur Réarmement]]></standard>
-		<standard Guid="eea1c491-05a5-4108-a768-8c2c7bfb02e9" textID="103"><![CDATA[Démarrage...]]></standard>
 		<standard Guid="75341184-9d16-403b-8983-3b619631650f" textID="104"><![CDATA[Général]]></standard>
 		<standard Guid="ffe32e9a-aa23-4f0a-98fa-41cb09de5955" textID="105"><![CDATA[Bac]]></standard>
 		<standard Guid="86f20584-0191-4d62-b075-a0e5a187e463" textID="106"><![CDATA[Chaine]]></standard>
@@ -69,10 +65,7 @@
 		<standard Guid="26da6c8c-d190-4746-a13b-01b598d06002" textID="113"><![CDATA[Tempo démarrage]]></standard>
 		<standard Guid="1fe0500f-065b-44a8-91cd-01929b537e24" textID="114"><![CDATA[°C critique min]]></standard>
 		<standard Guid="7ed21100-14f8-4c22-a828-38389c70bb93" textID="115"><![CDATA[°C critique max]]></standard>
-		<standard Guid="9603d2a4-19e3-4c6b-aa48-4fd807d60e8b" textID="116"><![CDATA[°C critique max four]]></standard>
 		<standard Guid="9f293b70-a3cf-426e-a7d0-78132fc8f00c" textID="117"><![CDATA[Air comprimé]]></standard>
-		<standard Guid="12ebe0e1-2b6a-44f7-a4b0-ef0d00326f04" textID="118"><![CDATA[Bouton marche générale]]></standard>
-		<standard Guid="1de0080a-8a2f-4037-8efb-9ac14476fdec" textID="119"><![CDATA[Bouton marche auto]]></standard>
 		<standard Guid="750db3bf-5dc4-4be9-b69e-51953332db70" textID="120"><![CDATA[Bouton vidange]]></standard>
 		<standard Guid="3c2665b5-b9cb-4f38-b22b-949326ced243" textID="121"><![CDATA[Bouton nettoyage]]></standard>
 		<standard Guid="495b8781-7cf4-4809-b6ee-cbddefbb2f6a" textID="122"><![CDATA[Electrovanne bac]]></standard>
@@ -98,7 +91,6 @@
 		<standard Guid="031857f0-4e44-412c-8792-05fcbe7b49b3" textID="143"><![CDATA[Tempo avant pause]]></standard>
 		<standard Guid="52820c8a-e862-4bd1-bbce-2694c31b3a53" textID="144"><![CDATA[Consigne pause]]></standard>
 		<standard Guid="231f6a79-4b85-410c-83e6-e4e330f10b5a" textID="145"><![CDATA[Période régulation]]></standard>
-		<standard Guid="1608df59-321f-46ec-9572-4a3b00212e8b" textID="146"><![CDATA[Contacteur]]></standard>
 		<standard Guid="8dff2de9-06c0-4974-b096-ce9b2a32b9be" textID="147"><![CDATA[°C min tête]]></standard>
 		<standard Guid="863d9bf9-2620-45a8-b3dc-1191acc5c2b0" textID="148"><![CDATA[Incrément référence]]></standard>
 		<standard Guid="9ef1cfd1-4465-49ae-b27f-cf8e43c293ce" textID="149"><![CDATA[Incrément bas injection]]></standard>
@@ -118,7 +110,6 @@
 		<standard Guid="25c75abb-05ec-464c-9b71-a2c71abdb865" textID="163"><![CDATA[Tiroir]]></standard>
 		<standard Guid="eea4005a-f056-4695-89d7-6821f1596c35" textID="165"><![CDATA[min]]></standard>
 		<standard Guid="5bea9562-a5a2-48c2-a684-bd4adc009776" textID="167"><![CDATA[Simulation tête prête]]></standard>
-		<standard Guid="bca78d98-eed4-41d3-bbec-5d4bc9d72f0a" textID="168"><![CDATA[Moteur]]></standard>
 		<standard Guid="a8dde617-a8b1-404e-b7a6-86505d08280e" textID="170"><![CDATA[Valeur par défaut]]></standard>
 		<standard Guid="0be42d2b-e908-4f1b-a2ad-b7b2fb93e920" textID="171"><![CDATA[Simulation four prêt]]></standard>
 		<standard Guid="3964e118-f575-4300-af91-5e75faa45a7b" textID="172"><![CDATA[Simulation bac prêt]]></standard>
@@ -128,20 +119,18 @@
 		<standard Guid="ce3f5754-fb25-4839-a48d-ef733a5e880a" textID="176"><![CDATA[Tête]]></standard>
 		<standard Guid="7b5e3b12-c33f-4b12-a0c3-237d19d0c7c7" textID="177"><![CDATA[Stop]]></standard>
 		<standard Guid="5d6b4e6a-546e-447a-8d78-7bb2b3da433e" textID="178"><![CDATA[Contrôler]]></standard>
-		<standard Guid="2b904be2-e7bd-4ff6-a593-278505e9676b" textID="0"><![CDATA[]]></standard>
-		<standard Guid="2d8e132e-3339-436e-bac7-c862d764073e" textID="179"><![CDATA[C-clockwise continu]]></standard>
-		<standard Guid="bdc6857f-d31a-4320-885e-461af63d061b" textID="180"><![CDATA[C-clockwise pas-à-pas]]></standard>
-		<standard Guid="45867511-1a31-457a-835a-9cf7d9a00924" textID="181"><![CDATA[Clockwise pas-à-pas]]></standard>
-		<standard Guid="a8a6649b-6606-457c-a173-e7bea9e3ba3a" textID="182"><![CDATA[Clockwise continu]]></standard>
+		<standard Guid="2d8e132e-3339-436e-bac7-c862d764073e" textID="179"><![CDATA[Bas continu]]></standard>
+		<standard Guid="bdc6857f-d31a-4320-885e-461af63d061b" textID="180"><![CDATA[Bas pas-à-pas]]></standard>
+		<standard Guid="45867511-1a31-457a-835a-9cf7d9a00924" textID="181"><![CDATA[Haut pas-à-pas]]></standard>
+		<standard Guid="a8a6649b-6606-457c-a173-e7bea9e3ba3a" textID="182"><![CDATA[Haut continu]]></standard>
 		<standard Guid="8192c2ca-a499-4d19-a584-b43295d5bd7a" textID="183"><![CDATA[Jog]]></standard>
 		<standard Guid="fc6e1e22-f603-4d01-b2ae-e842523a8872" textID="184"><![CDATA[Références]]></standard>
-		<standard Guid="acd8c93a-9715-4366-ba4c-95534123f38e" textID="185"><![CDATA[Switch négatif]]></standard>
-		<standard Guid="eded2e1e-1299-498a-a62e-50f647a21b14" textID="186"><![CDATA[Blocage positif]]></standard>
-		<standard Guid="3b86fb01-0983-4f1f-8b7c-a869d4dd7307" textID="187"><![CDATA[Butée c-clockwise]]></standard>
-		<standard Guid="b9239b69-3410-486e-9c44-9b37626a80e7" textID="188"><![CDATA[Butée clockwise]]></standard>
-		<standard Guid="06b8322a-00a0-41fd-a954-2e9ccf183a72" textID="189"><![CDATA[Switch positif]]></standard>
+		<standard Guid="acd8c93a-9715-4366-ba4c-95534123f38e" textID="185"><![CDATA[Switch bas]]></standard>
+		<standard Guid="3b86fb01-0983-4f1f-8b7c-a869d4dd7307" textID="187"><![CDATA[Blocage haut]]></standard>
+		<standard Guid="b9239b69-3410-486e-9c44-9b37626a80e7" textID="188"><![CDATA[Blocage bas]]></standard>
+		<standard Guid="06b8322a-00a0-41fd-a954-2e9ccf183a72" textID="189"><![CDATA[Switch haut]]></standard>
 		<standard Guid="5ba832b1-f5e7-4072-b1e8-01df22eb1a80" textID="190"><![CDATA[Réarmement]]></standard>
-		<standard Guid="4a9a235d-1186-4a8d-a4d2-9fa32dede79a" textID="191"><![CDATA[Back]]></standard>
+		<standard Guid="4a9a235d-1186-4a8d-a4d2-9fa32dede79a" textID="191"><![CDATA[Retour]]></standard>
 		<standard Guid="66feae35-1cbb-451d-87d1-477142466363" textID="192"><![CDATA[Fin de course]]></standard>
 		<standard Guid="1483f4cb-6c01-4180-814c-961b4b954745" textID="193"><![CDATA[Reference OK]]></standard>
 		<standard Guid="659918a4-b78c-4867-a2fd-c4216e54a892" textID="194"><![CDATA[Erreur mode]]></standard>
@@ -156,11 +145,6 @@
 		<standard Guid="d3a150ee-2743-4638-b037-c14ab209c580" textID="203"><![CDATA[Dest.]]></standard>
 		<standard Guid="b39217cb-dea0-404b-b3a5-6370640f5937" textID="204"><![CDATA[Déplacer]]></standard>
 		<standard Guid="e4f6ebdd-c85a-493c-9095-301d2a86cc43" textID="205"><![CDATA[Vitesse]]></standard>
-		<standard Guid="3bf84f55-4e17-4d6a-96e2-e9e2d665504c" textID="206"><![CDATA[Reset usine]]></standard>
-		<standard Guid="78e80944-2fda-44af-b806-eabbdb8dd6b3" textID="207"><![CDATA[Redémarrer l'alimentation après un reset !]]></standard>
-		<standard Guid="bc90335b-48c0-475d-ae05-9e7edc377395" textID="208"><![CDATA[Exporter les paramètres]]></standard>
-		<standard Guid="be372cb7-dfc1-451a-b2db-ab68d0e012d0" textID="209"><![CDATA[Importer les paramètres]]></standard>
-		<standard Guid="9811576b-58ed-438c-a0d5-4747c23408e1" textID="210"><![CDATA[Redémarrer l'alimentation après l'import des paramètres !]]></standard>
 		<standard Guid="004923c1-ab8f-408a-bf8d-7333d8c95efd" textID="211"><![CDATA[Drive]]></standard>
 		<standard Guid="110eba1c-bc93-4840-9fd6-b295748a3629" textID="212"><![CDATA[Node]]></standard>
 		<standard Guid="c8a7aa60-c6b0-4743-9d8c-2a10e486489e" textID="213"><![CDATA[Objet CAN]]></standard>
@@ -175,11 +159,6 @@
 		<error Guid="fc8d5577-0508-4bc9-b214-4f7660633010" textID="1"><![CDATA[Défaut d'air comprimé]]></error>
 		<error Guid="869d51fb-2e9e-4ecc-98ba-f2efc37265d6" textID="2"><![CDATA[Arrêt d'urgence actif]]></error>
 		<error Guid="9fb3fd22-69f0-4456-a18e-01eb14d0bd51" textID="3"><![CDATA[Bac pas prêt pour couler (pompe ou température)]]></error>
-		<error Guid="86d6ae59-2646-485f-a5e1-969e2912d6a5" textID="4"><![CDATA[]]></error>
-		<error Guid="4a3ad109-af75-4c3a-9754-eeb5417d7fec" textID="5"><![CDATA[]]></error>
-		<error Guid="1c97bd8d-33b5-426c-852f-7ea6faeb1475" textID="6"><![CDATA[]]></error>
-		<error Guid="4254bc40-e021-4c6d-83a3-ce4c4e9757e4" textID="7"><![CDATA[]]></error>
-		<error Guid="dace9bf3-127d-4685-a7b1-0db21760f09d" textID="8"><![CDATA[]]></error>
 		<error Guid="793a5287-d5bd-4954-ad3b-d9fefd147283" textID="9"><![CDATA[Température critique tête]]></error>
 		<error Guid="1fd78df4-f687-44d8-8df5-69bf6b6b93f6" textID="10"><![CDATA[Défaut moteur tête (1)]]></error>
 		<error Guid="0bd72cf9-559d-4d56-a304-9b631e0f8354" textID="11"><![CDATA[Défaut moteur tête (2)]]></error>
@@ -198,9 +177,5 @@
 		<error Guid="c9c1bca0-1cc5-4049-aebb-96011b88fa72" textID="25"><![CDATA[Déplacement excessif de la tête]]></error>
 		<error Guid="f8411e49-bd61-42ae-b1c8-7e382d5df5a4" textID="26"><![CDATA[Four pas prêt pour la marche automatique]]></error>
 		<error Guid="fe5dcc29-6b99-41f5-b01e-870ddd73f523" textID="27"><![CDATA[Tête pas prête pour la marche automatique]]></error>
-		<error Guid="25c702d6-b0bc-46c3-a106-b2cd5b5fb411" textID="28"><![CDATA[Défaut contacteur radian 1]]></error>
-		<error Guid="6984e477-cdfd-4c9e-a1a7-598371b4e584" textID="29"><![CDATA[Défaut contacteur radian 2]]></error>
-		<error Guid="6a377390-c4a1-4c73-bbd9-87ad30dcd7cd" textID="0"><![CDATA[]]></error>
-		<help Guid="da74f20a-5700-4c30-a5cc-7b9e046d069c" textID="0"><![CDATA[]]></help>
 	</texts>
 </languageData>
