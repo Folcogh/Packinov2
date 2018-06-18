@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<ConnectionManager xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <FtpConnections>
+    <FtpConnection>
+      <Guid>08f2f623-c662-4aa0-ab95-bd398c0af91b</Guid>
+      <Name>BancDEssais</Name>
+      <Host>10.4.2.16</Host>
+      <Username />
+      <PasswordCrypted>sa2Iy70B/eWKkD+KPJQ0YQ==</PasswordCrypted>
+      <Port>21</Port>
+      <Timeout>15</Timeout>
+      <DestinationFolder>\InternalStorage</DestinationFolder>
+      <UsePassiveMode>true</UsePassiveMode>
+    </FtpConnection>
+    <FtpConnection>
+      <Guid>9a8da505-362c-461f-9720-2ac2b054cd46</Guid>
+      <Name>Packinov2</Name>
+      <Host>10.4.2.26</Host>
+      <Username />
+      <PasswordCrypted>sa2Iy70B/eWKkD+KPJQ0YQ==</PasswordCrypted>
+      <Port>21</Port>
+      <Timeout>15</Timeout>
+      <DestinationFolder>\InternalStorage</DestinationFolder>
+      <UsePassiveMode>true</UsePassiveMode>
+    </FtpConnection>
+  </FtpConnections>
+  <Folders />
+  <LastUsedTarget>9a8da505-362c-461f-9720-2ac2b054cd46</LastUsedTarget>
+  <KeepAutoexec>false</KeepAutoexec>
+  <DownloadSourceAsZip>false</DownloadSourceAsZip>
+  <PasswordProtection>false</PasswordProtection>
+  <Password />
+  <StopRunningGrs>true</StopRunningGrs>
+  <RestartGrs>true</RestartGrs>
+  <UploadRecipes>false</UploadRecipes>
+  <UploadUserManagement>false</UploadUserManagement>
+</ConnectionManager>
